@@ -1,11 +1,18 @@
+![Screenshot (24)](https://user-images.githubusercontent.com/82368153/115688882-2ca03800-a379-11eb-8b06-4d9ee8dd2217.png)
+        
+![Screenshot (25)](https://user-images.githubusercontent.com/82368153/115689062-59ece600-a379-11eb-85e1-56215bc6c5b3.png)
+       
        apt update
+       
        INSTALL JAVA & MAVEN
        ====================
        #apt-get update 
+       aptinstall maven -y
        #apt-get install java 
        #apt-get install tomcat9 -y 
-       #apt-get install maven -y  
-       #mvn -version 
+       
+       
+
        
        Distribution Installation
        ===========================
