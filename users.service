@@ -4,7 +4,7 @@ Description=users service
 [Service]
 
 Environment=SERVER_PORT=8080
-ExecStart=/bin/java -jar /root/users/target/users-api-0.0.1.jar
+ExecStart=/bin/java -jar /root/Todo-shellscripting/users/target/users.jar
 SyslogIdentifier=users
 
 [Install]
